@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/66712117/when-i-try-to-insert-data-into-my-posgresql-database-nothing-happens
+
+
+
+change the port of postgre to 5446
