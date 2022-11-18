@@ -1,5 +1,6 @@
-# Postgresql & PgAdmin powered by compose
+# Postgresql & PgAdmin powered by compose forked from https://github.com/khezen
 
+#ONLY change that is A MUST: 'change the port of postgre to 5446'
 
 ## Requirements:
 * docker >= 17.12.0+
